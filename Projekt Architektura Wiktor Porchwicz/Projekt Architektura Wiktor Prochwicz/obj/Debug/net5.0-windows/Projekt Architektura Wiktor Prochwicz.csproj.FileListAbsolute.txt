@@ -1,0 +1,36 @@
+C:\Users\danie\source\repos\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\bin\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.exe
+C:\Users\danie\source\repos\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\bin\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.deps.json
+C:\Users\danie\source\repos\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\bin\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.runtimeconfig.json
+C:\Users\danie\source\repos\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\bin\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.runtimeconfig.dev.json
+C:\Users\danie\source\repos\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\bin\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.dll
+C:\Users\danie\source\repos\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\bin\Debug\net5.0-windows\ref\Projekt Architektura Dawid Rozum.dll
+C:\Users\danie\source\repos\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\bin\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.pdb
+C:\Users\danie\source\repos\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\obj\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\obj\Debug\net5.0-windows\Projekt_Architektura_Dawid_Rozum.Form1.resources
+C:\Users\danie\source\repos\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\obj\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\obj\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\obj\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\obj\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.AssemblyInfo.cs
+C:\Users\danie\source\repos\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\obj\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\obj\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.dll
+C:\Users\danie\source\repos\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\obj\Debug\net5.0-windows\ref\Projekt Architektura Dawid Rozum.dll
+C:\Users\danie\source\repos\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\obj\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.pdb
+C:\Users\danie\source\repos\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\obj\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Pulpit\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\bin\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.exe
+C:\Users\danie\OneDrive\Pulpit\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\bin\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.deps.json
+C:\Users\danie\OneDrive\Pulpit\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\bin\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.runtimeconfig.json
+C:\Users\danie\OneDrive\Pulpit\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\bin\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Pulpit\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\bin\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.dll
+C:\Users\danie\OneDrive\Pulpit\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\bin\Debug\net5.0-windows\ref\Projekt Architektura Dawid Rozum.dll
+C:\Users\danie\OneDrive\Pulpit\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\bin\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.pdb
+C:\Users\danie\OneDrive\Pulpit\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\obj\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Pulpit\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\obj\Debug\net5.0-windows\Projekt_Architektura_Dawid_Rozum.Form1.resources
+C:\Users\danie\OneDrive\Pulpit\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\obj\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Pulpit\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\obj\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Pulpit\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\obj\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Pulpit\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\obj\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Pulpit\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\obj\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Pulpit\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\obj\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.dll
+C:\Users\danie\OneDrive\Pulpit\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\obj\Debug\net5.0-windows\ref\Projekt Architektura Dawid Rozum.dll
+C:\Users\danie\OneDrive\Pulpit\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\obj\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.pdb
+C:\Users\danie\OneDrive\Pulpit\Projekt Architektura Dawid Rozum\Projekt Architektura Dawid Rozum\obj\Debug\net5.0-windows\Projekt Architektura Dawid Rozum.genruntimeconfig.cache
